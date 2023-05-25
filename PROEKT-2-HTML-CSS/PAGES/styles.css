@@ -31,3 +31,27 @@ p{
 .portrait{
     width: 400px;
 }
+
+a:link {
+    color:#0a0094;
+}
+
+a:hover {
+    color:#1100ff;
+}
+
+a:active {
+    color:#ffffff;  
+}
+
+a:visited:active {
+    color:#ffffff;
+}
+ul{
+    list-style: square;
+}
+
+#fin{
+    text-align: center;
+    font-weight: normal;
+}
