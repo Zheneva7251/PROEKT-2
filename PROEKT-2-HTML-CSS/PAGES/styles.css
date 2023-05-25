@@ -1,0 +1,33 @@
+.page {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 1em;
+  
+}
+img{
+    width: 700px;
+}
+img:active{
+    transform: scale(1.4);
+    border: 5px solid black;
+}
+h1, h2, h3{
+    border: 1px solid black;
+    padding: 10px;
+}
+p{
+    margin: 20px;
+    font-weight: bold;
+}
+.note{
+    padding-top: 5px;
+    margin: 0px;
+    font-size: 0.9em;
+    font-weight: normal;
+    font-style: italic;
+}
+.portrait{
+    width: 400px;
+}
